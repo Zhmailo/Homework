@@ -11,4 +11,5 @@
 1)  shutdown.exe -m -t 360
 
 2)Bat1 выкл
+
 2) shutdown.exe -a
